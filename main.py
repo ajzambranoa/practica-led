@@ -7,7 +7,7 @@ while True:
     led1.on()
     led2.off()
 
-    time.sleep(1)
+    time.sleep(2)
     led1.off()
     led2.on()
-    time.sleep(1)
+    time.sleep(2)
